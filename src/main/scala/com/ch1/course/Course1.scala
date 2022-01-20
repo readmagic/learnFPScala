@@ -1,4 +1,4 @@
-package ch1.course
+package com.ch1.course
 
 class CreditCard {def charge(price: Double): Unit = {}}
 
